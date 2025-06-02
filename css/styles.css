@@ -10834,6 +10834,10 @@ html {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
 }
+#about {
+  padding-top: 1.5rem;
+  padding-bottom: 3.5rem;
+}
 
 .content-section-heading h2, .content-section-heading .h2 {
   font-size: 3rem;
@@ -11015,7 +11019,7 @@ footer.footer .social-link:hover {
   padding-top: 8rem;
   padding-bottom: 8rem;
   /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg"); */
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/wedd_per.png");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/wedd_perr.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
